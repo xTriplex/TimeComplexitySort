@@ -42,7 +42,7 @@ A custom border class to create rounded borders for buttons.
 
 3. **Run the application**:
     ```sh
-    java -cp bin MainClass
+    java -cp bin Main
     ```
 
 ## Usage
